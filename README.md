@@ -3,8 +3,11 @@ Welcome to my git repository for my HP Elitedesk 800 G2 Mini hackintosh. I've po
 
 ## Hackintosh Specs
 My model is the 35W version of the 800 G2 Mini.
-* Intel Core i5 6500T
-* 8GB DDR4
-* x2 SSD's (x1 Samsung 240G SSD with Windows and x1 PNY 128G SSD for MacOS)
+* CPU: Intel Core i5-6500T (35w TDP)
+* GPU: Intel HD Graphics 530
+* RAM: 8GB (2133Mhz DDR4)
+* Ethernet Card: Intel Mausi
+* BIOS revision: Latest version (v02.56)
 
 ## BIOS Setup
+I recommend you visit the HP website and install the latest version of the BIOS.
