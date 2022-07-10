@@ -11,3 +11,6 @@ My model is the 35W version of the 800 G2 Mini.
 
 ## BIOS Setup
 I recommend you visit the HP website and install the latest version of the BIOS.
+
+## Modifications made
+* I disabled some of OpenCore's security for the bootloader to work correctly.
