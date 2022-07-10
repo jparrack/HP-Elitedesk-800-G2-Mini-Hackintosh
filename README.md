@@ -1,4 +1,4 @@
-# HP-Elitedesk-800-G2-Mini-Hackintosh
+# jparrack's HP Elitedesk 800 G2 Mini Hackintosh Project
 Welcome to my git repository for my HP Elitedesk 800 G2 Mini hackintosh. I've posted on [reddit.com/](https://www.reddit.com/r/hackintosh/comments/vavsua/hp_elitedesk_800_g2_mini_wip_on_monterey/) and recieved a bunch of questions regarding how I got mine to work.
 
 ## Hackintosh Specs
